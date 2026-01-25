@@ -3,7 +3,11 @@ I decided to make a fume extractor as i dont have anything of this kind in my ro
 It uses a carbon filter, motor speed controller and a 12v fan. it connects using a dc power jack.
 ## Pictures
 ## Final Results
-<img width="635" height="624" alt="image" src="https://github.com/user-attachments/assets/728ff03f-c185-4384-98e4-662c2072facf" />
+<img width="736" height="596" alt="image" src="https://github.com/user-attachments/assets/2d2e38c2-4c36-4698-a81e-1efb89f3eb08" />
+<img width="578" height="531" alt="image" src="https://github.com/user-attachments/assets/e08ec552-7b8a-48fa-9b63-fe915b29fe76" />
+<img width="666" height="543" alt="image" src="https://github.com/user-attachments/assets/c05d8fa9-34ec-40da-9b90-b47b74fe2644" />
+
+
 
 ### Case
 <img width="767" height="578" alt="image" src="https://github.com/user-attachments/assets/804657da-20ec-4c00-9a20-94e6f4e55456" />
