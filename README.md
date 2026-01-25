@@ -2,6 +2,9 @@
 I decided to make a fume extractor as i dont have anything of this kind in my room and thats where i solder.
 It uses a carbon filter, motor speed controller and a 12v fan. it connects using a dc power jack.
 ## Pictures
+## Final Results
+<img width="635" height="624" alt="image" src="https://github.com/user-attachments/assets/728ff03f-c185-4384-98e4-662c2072facf" />
+
 ### Case
 <img width="767" height="578" alt="image" src="https://github.com/user-attachments/assets/804657da-20ec-4c00-9a20-94e6f4e55456" />
 
