@@ -7,8 +7,6 @@ It uses a carbon filter, motor speed controller and a 12v fan. it connects using
 <img width="578" height="531" alt="image" src="https://github.com/user-attachments/assets/e08ec552-7b8a-48fa-9b63-fe915b29fe76" />
 <img width="666" height="543" alt="image" src="https://github.com/user-attachments/assets/c05d8fa9-34ec-40da-9b90-b47b74fe2644" />
 
-
-
 ### Case
 <img width="767" height="578" alt="image" src="https://github.com/user-attachments/assets/804657da-20ec-4c00-9a20-94e6f4e55456" />
 
@@ -16,7 +14,7 @@ the case fits together using 8 m3 heat inserts and the rest slides in. This took
 all the parts are easily dissasembled and u can reach inside the base without taking it all apart.
 ## WIRING
 
-<img width="1005" height="553" alt="image" src="https://github.com/user-attachments/assets/289ebd84-2a78-485e-9c09-8456a401011f" />
+<img width="1106" height="618" alt="image" src="https://github.com/user-attachments/assets/7fefecf1-fa8d-404c-b704-441a70a5102f" />
 
 only way i knew to do the wiring quickly and that is easy to see, sorry
 ## BOM
