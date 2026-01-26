@@ -20,5 +20,6 @@ all the parts are easily dissasembled and u can reach inside the base without ta
 
 only way i knew to do the wiring quickly and that is easy to see, sorry
 ## BOM
-<img width="1255" height="271" alt="image" src="https://github.com/user-attachments/assets/c6dd00b9-8db1-46bc-9161-d5378015f5b4" />
+<img width="956" height="226" alt="image" src="https://github.com/user-attachments/assets/f894afd2-5725-48a4-98a0-b3ce697f5a09" />
+
 
