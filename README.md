@@ -1,4 +1,8 @@
 # Fume-extractor
+I made this project as I do not want to inhale toxic fumes and get lung diseases.
+
+it was made by designing a choosing components and building a case around them.
+
 I decided to make a fume extractor as i dont have anything of this kind in my room and thats where i solder.
 It uses a carbon filter, motor speed controller and a 12v fan. it connects using a dc power jack.
 ## Pictures
